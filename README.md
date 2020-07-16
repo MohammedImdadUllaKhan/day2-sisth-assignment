@@ -1,2 +1,2 @@
-# day2-sisth-assignment
+# day2-sixth-assignment
 methods on arrays and strings
